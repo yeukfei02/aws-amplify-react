@@ -2,12 +2,9 @@ import React, { useEffect, useState } from "react";
 import { nanoid } from "nanoid";
 import moment from "moment";
 
-import Amplify, { API, graphqlOperation } from "aws-amplify";
+import { API, graphqlOperation } from "aws-amplify";
 import { createNotes, deleteNotes } from "../graphql/mutations";
 import { listNotess } from "../graphql/queries";
-
-import awsExports from "../aws-exports";
-Amplify.configure(awsExports);
 
 function App() {
   const [name, setName] = useState([]);
