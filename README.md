@@ -2,11 +2,11 @@
 
 This project wants to use `aws-amplify` to create a full-stack web project.
 
-`api`: graphql, amplify will generate `query/mutation/subscription` based on `schema.graphql`, deploy with `aws appsync`
+`api`: `graphql`, amplify will generate `query/mutation/subscription` based on `schema.graphql`, deploy in `aws appsync`
 
-`db`: dynaomodb, amplify will create table based on `schema.graphql`
+`db`: `dynaomodb`, amplify will create dynaomodb table based on `schema.graphql`
 
-`web`: react, will use `graphql` endpoint
+`web`: `react`, use `graphql` endpoint to render ui
 
 url:
 
