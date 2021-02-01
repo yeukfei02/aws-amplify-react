@@ -9,12 +9,19 @@
             "authenticationType": "API_KEY",
             "apiKeyConfig": {
               "apiKeyExpirationDays": 1,
-              "description": "awsamplifyreact api key"
+              "description": "awsamplifyreact-api-key"
             }
           },
           "additionalAuthenticationProviders": []
         }
       }
+    }
+  },
+  "hosting": {
+    "amplifyhosting": {
+      "service": "amplifyhosting",
+      "type": "cicd",
+      "lastPushTimeStamp": "2021-02-01T10:11:38.834Z"
     }
   }
 }
