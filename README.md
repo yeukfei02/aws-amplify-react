@@ -8,7 +8,7 @@ This project wants to use `aws-amplify` to create a full-stack web project.
 
 `web`: `react`, use `graphql` endpoint to render ui
 
-url:
+url: https://main.d2i7j8suxljo52.amplifyapp.com/
 
 ## Requirement:
 
