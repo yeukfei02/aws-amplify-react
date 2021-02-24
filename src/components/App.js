@@ -7,8 +7,8 @@ import { createNotes, deleteNotes } from "../graphql/mutations";
 import { listNotess } from "../graphql/queries";
 
 function App() {
-  const [name, setName] = useState([]);
-  const [description, setDescription] = useState([]);
+  const [name, setName] = useState("");
+  const [description, setDescription] = useState("");
 
   const [notes, setNotes] = useState([]);
 
