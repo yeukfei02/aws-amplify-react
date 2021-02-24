@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.4](https://github.com/yeukfei02/aws-amplify-react/compare/v0.1.3...v0.1.4) (2021-02-24)
+
+
+### Bug Fixes
+
+* 🐛 fix wrong state default value ([711c049](https://github.com/yeukfei02/aws-amplify-react/commit/711c049e49541146694e50f1b1c2c292a8614697))
+
 ### [0.1.3](https://github.com/yeukfei02/aws-amplify-react/compare/v0.1.2...v0.1.3) (2021-02-01)
 
 
