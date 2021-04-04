@@ -8,17 +8,17 @@ This project wants to use `aws-amplify` to create a full-stack web project.
 
 `web`: `react`, use `graphql` endpoint to render ui
 
-url: https://main.d2i7j8suxljo52.amplifyapp.com/
+url: <https://main.d2i7j8suxljo52.amplifyapp.com/>
 
-## Requirement:
+## Requirement
 
 - install yarn
 - install node (v12+)
 - install aws amplify cli
 
-## Testing and run:
+## Testing and run
 
-```
+```zsh
 // install node dependencies
 $ yarn
 
